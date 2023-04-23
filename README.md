@@ -1,5 +1,4 @@
 # Responsive Delivery Website 🚚
-***
 * Technologies - React, Sass, MUI
 * Includes a dark and light mode.
 * Color customization.
